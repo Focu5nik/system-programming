@@ -1,4 +1,4 @@
 ﻿cl : командная строка warning D9035: использование параметра "Gm" нежелательно, он будет удален в следующих выпусках
   splpv1.c
-D:\Женя\Projects\lab_1_firewall\splpv1.c(126,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Женя\Projects\lab_1_firewall\splpv1.c(262,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
   test.vcxproj -> D:\Женя\Projects\lab_1_firewall\Debug\test.exe
